@@ -1,0 +1,4 @@
+# Deploy artifacts: keep bytes exactly as built, never rewrite line endings.
+*.html -text
+*.xml -text
+*.txt -text
